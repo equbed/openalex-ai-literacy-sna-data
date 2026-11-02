@@ -1,0 +1,15 @@
+work_type,total_publications,with_references,average_references,without_references,percent_with_references
+article,225,97,16.026666666666667,128,43.1
+book,4,0,0.0,4,0.0
+book-chapter,7,2,39.0,5,28.6
+conference-abstract,3,0,0.0,3,0.0
+conference-paper,32,22,13.125,10,68.8
+dataset,4,0,0.0,4,0.0
+dissertation,11,0,0.0,11,0.0
+other,13,0,0.0,13,0.0
+paratext,1,0,0.0,1,0.0
+peer-review,1,0,0.0,1,0.0
+preprint,26,6,5.346153846153846,20,23.1
+report,4,0,0.0,4,0.0
+review,8,4,39.0,4,50.0
+software,1,0,0.0,1,0.0
